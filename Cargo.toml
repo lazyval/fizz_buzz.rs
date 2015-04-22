@@ -1,0 +1,5 @@
+[package]
+
+name = "fizz_buzz"
+version = "0.0.1"
+authors = ["Kostya Golikov <johnysilver7@gmail.com>"]
